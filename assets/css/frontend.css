@@ -1,0 +1,9 @@
+/* green = free, red = busy */
+.fc-event.booking-free {
+	background-color: #90ee90 !important;
+	border-color: #90ee90;
+}
+.fc-event.booking-busy {
+	background-color: #ffcccb !important;
+	border-color: #ffcccb;
+}
